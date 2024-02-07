@@ -18,6 +18,7 @@ To start the development server, run the following command:
 npm run dev
 ```
 ###  Build for production in the dist/ directory
+``` bash
 npm run build
 ```
 
